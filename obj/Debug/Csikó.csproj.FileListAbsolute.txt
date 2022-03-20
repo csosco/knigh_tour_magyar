@@ -1,0 +1,31 @@
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\obj\Debug\Csikó.csprojAssemblyReference.cache
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\obj\Debug\Csikó.Properties.Resources.resources
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\obj\Debug\Csikó.csproj.GenerateResource.cache
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\obj\Debug\Csikó.csproj.CoreCompileInputs.cache
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\bin\Debug\Csikó.exe.config
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\bin\Debug\Csikó.exe
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\bin\Debug\Csikó.pdb
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\obj\Debug\Csikó.exe
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\obj\Debug\Csikó.pdb
+D:\Privat\!Suli\6. félév\Informatikai projektfeladat\Csikó\obj\Debug\Csikó.Csiko_Form.resources
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\bin\Debug\Csikó.exe.config
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\bin\Debug\Csikó.exe
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\bin\Debug\Csikó.pdb
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\obj\Debug\Csikó.csprojAssemblyReference.cache
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\obj\Debug\Csikó.Csiko_Form.resources
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\obj\Debug\Csikó.Properties.Resources.resources
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\obj\Debug\Csikó.csproj.GenerateResource.cache
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\obj\Debug\Csikó.csproj.CoreCompileInputs.cache
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\obj\Debug\Csikó.exe
+c:\Users\Sandor\source\repos\Csikó_v1.2\Csikó\obj\Debug\Csikó.pdb
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\bin\Debug\Csikó.exe.config
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\bin\Debug\Csikó.exe
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\bin\Debug\Csikó.pdb
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.Csiko_Form.resources
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.Properties.Resources.resources
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.csproj.GenerateResource.cache
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.csproj.CoreCompileInputs.cache
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.exe
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.pdb
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.csproj.AssemblyReference.cache
+c:\Users\Sandor\source\repos\Csikó_v1.2_eredeti_csikó_mentes\Csikó\obj\Debug\Csikó.csproj.SuggestedBindingRedirects.cache
